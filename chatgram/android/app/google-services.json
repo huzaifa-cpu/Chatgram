@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475814420832",
+    "project_id": "chatgram-54b07",
+    "storage_bucket": "chatgram-54b07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475814420832:android:a9581df53bb74d96e5be05",
+        "android_client_info": {
+          "package_name": "com.example.chatgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475814420832-4u7utp7rqk1omrlt72g894ibasf1mvem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatgram",
+            "certificate_hash": "64c1a07d92c20da4d73dcb7fa366f5aba12488ba"
+          }
+        },
+        {
+          "client_id": "475814420832-jsgt0rmrl8rgeftpgg36nogf9mhtv30i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWRRMTL-gW9GdYHiqMpwdZNTtkXJ2gbJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475814420832-jsgt0rmrl8rgeftpgg36nogf9mhtv30i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
